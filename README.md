@@ -38,6 +38,6 @@ Add-AppxProvisionedPackage -Online -PackagePath <path to .msixbundle file> -Lice
 
 # Warning
 
-There are a lot of wrong guides about winget installation. These guide will be pretty much enough for you, if you face any issues just let me know.
+There are a lot of wrong guides about winget installation. This guide will be pretty much enough for you, if you face any issues just let me know.
 
 This guide is updated version of [this](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/cpp/libraries/c-runtime-packages-desktop-bridge) Microsoft article. I just chanded few things in my guide.
